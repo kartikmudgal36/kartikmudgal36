@@ -1,4 +1,4 @@
-![logo](https://github.com/kartikmudgal36/kartikmudgal36/blob/main/Burchett%20%26%20Pryor.png)
+
 <h1 align="center">Hi 👋, I'm Kartik Mudgal</h1>
 <h3 align="center">A passionate coder and developer from India</h3>
 
