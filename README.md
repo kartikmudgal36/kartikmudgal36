@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Embedded systems , courses etc**
 
-- 💬 Ask me about **C, c++ ,Internet Of things and Embedded systems(Atmega8)**
+- 💬 Ask me about **C, C++ ,Internet Of things and Embedded systems(Atmega8)**
 
 - 📫 How to reach me **kartikmudgal36@gmail.com**
 
