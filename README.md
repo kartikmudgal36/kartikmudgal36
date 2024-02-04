@@ -13,7 +13,7 @@ https://github.com/kartikmudgal36/kartikmudgal36/assets/132812691/5ede42a1-8343-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikmudgal36&label=Profile%20views&color=0e75b6&style=flat" alt="kartikmudgal36" /> </p>
 
-- 🌱 I’m currently learning **Embedded systems , courses etc**
+- 🌱 I’m currently focusing on **SQL, Python, C++, DSA etc**
 
 - 💬 Ask me about **C, C++ ,Internet Of things and Embedded systems(Atmega8)**
 
